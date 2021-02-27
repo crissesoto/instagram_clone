@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+# Introduction
+This is an Instagram clone! This React project has multiple pages: login, sign up, dashboard (to view/like/comment on photos), and user profiles. The sign-in page will connect to Firebase when a user tries to sign in, and when a user signs up, we will use Firebase auth to store the user in the Firebase auth database. I built this application using React, JavaScript, Firebase and for styling I used Tailwind CSS.
+
+I used Lighthouse & LoadTest to performance test and deploy it to Vercel.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
